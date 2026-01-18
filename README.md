@@ -13,14 +13,14 @@
 
 ### 🔰 About Me
 - ****I'm MD Alimullah****
-- 🔭 I’m currently working as a **Software Engineer (iOS)** at [**AppExist Limite**](https://www.linkedin.com/company/app-exist/) 
+- 🔭 I’m currently working as a ** iOS Developer Intern  ** at [**AppExist Limite**](https://www.linkedin.com/company/app-exist/) 
 - 👨‍💻 I have **1+ years of experience** building iOS apps using **Swift**, **UIKit**, and other Apple frameworks  
 - 💬 Ask me about: **iOS Development**, **Competitive Programming**, **Problem Solving**, and **Tech Mentorship**  
 - 🎯 Looking for an opportunity at a **product-based App Store company** as an iOS Developer  
 - 👨‍🏫 Founder & Vice-Principal of **BBPI Programmers Club (BPC)** — organizing contests & mentoring juniors  
 - 📚 Previously solved **400+ coding problems** across various online judges  
 - ✍️ I regularly write programming-related articles on :
-  <a href="https://Alimullah1573.tumblr.com" target="_blank">
+  <a href="https://www.tumblr.com/blog/alimullah" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="Alimullah1573.tumblr.com" width="28" height="28" />
   </a>  
 
@@ -30,16 +30,13 @@
 🔘 Swift 🔘 Python 
 
 **iOS Frameworks & Tools:**  
-🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 EventKit 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 MessageUI 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 Core Animation 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 Push Notification 🔘 NotificationCenter 🔘 Combine 🔘 Swift Concurrency (async/await) 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain 🔘 Gesture Recognizers 🔘 NSAttributedString 🔘 Localization 🔘 Dark Mode Support 🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
+🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 Push Notification 🔘 NotificationCenter 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain  🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
 
 **Design Patterns:**  
 🔘 MVC 
 
-**Tools & Services:**  
-🔘 Git 🔘 Postman 🔘 Firebase 🔘 Figma 🔘 Canva  
-
 **📦 Data Handling & API Skills:**
-🔘 JSON 🔘 Codable 🔘 RESTful API 🔘 URLSession 🔘 Postman 🔘 API Debugging
+🔘 JSON 🔘 Codable 🔘 RESTful API 🔘 URLSession 🔘 API Debugging
 
 **Other Skills:**  
 🔘 Algorithms 🔘 Data Structures 🔘 OOP  🔘 Team Building 🔘 Mentorship 🔘 Leadership  
