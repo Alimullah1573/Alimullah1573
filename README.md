@@ -14,7 +14,7 @@
 ### 🔰 About Me
 - ****I'm MD Alimullah****
 - 🔭 I’m currently working as a ** iOS Developer Intern  ** at [**AppExist Limite**](https://www.linkedin.com/company/app-exist/) 
-- 👨‍💻 I have **1+ years of experience** building iOS apps using **Swift**, **UIKit**, and other Apple frameworks  
+- 👨‍💻 I have **6 Month of experience** building iOS apps using **Swift**, **UIKit**, and other Apple frameworks  
 - 💬 Ask me about: **iOS Development**, **Competitive Programming**, **Problem Solving**, and **Tech Mentorship**  
 - 🎯 Looking for an opportunity at a **product-based App Store company** as an iOS Developer  
 - 👨‍🏫 Founder & Vice-Principal of **BBPI Programmers Club (BPC)** — organizing contests & mentoring juniors  
