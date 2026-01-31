@@ -77,7 +77,7 @@
   
 <div align="center">
   
-|Swift|Xcode|Python|&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;|Figma|Firebase|&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;|
+|Swift|Xcode|Python|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Figma|&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;|
 |-|-|-|-|-|-|-|
 |<p align="center"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="./Image sample/swiftIcon.gif" alt="swift" width="40px" height="40px"/></a></p> |<p align="center"><a href="https://developer.apple.com/documentation/xcode" target="_blank" rel="noreferrer"><img src="./Image sample/xcodeIcon.gif" alt="xcode" width="40px" height="40px"/></a></p> | <p align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./Image sample/pythonIcon.gif" alt="python" width="40px" height="40px"/></a></p> | <p align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="./Image sample/c++Icon.gif" alt="cplusplus" width="40px" height="40px"/></a></p> | <p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./Image sample/figmaIcon.gif" alt="figma" width="40px" height="40px"/></a></p> | <p align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./Image sample/firebaseIcon.gif" alt="firebase" width="40px" height="40px"/></a></p> | <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./Image sample/gitIcon.gif" alt="git" width="40px" height="40px"/></a></p>|
   
