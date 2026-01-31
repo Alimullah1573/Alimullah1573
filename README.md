@@ -30,7 +30,7 @@
 🔘 Swift 🔘 Python 
 
 **iOS Frameworks & Tools:**  
-🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 Push Notification 🔘 NotificationCenter 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain  🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
+🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 NotificationCenter 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain  🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
 
 **Design Patterns:**  
 🔘 MVC 
